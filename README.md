@@ -5,7 +5,7 @@ To run the code and setup a reminder:
 * Make sure you have Python installed on your system.
 * The ```win10toast``` and ```time``` libraries have been used in the code. You need to have them too. 
 * Now, ```time``` is a part of Python's standard library. It is installed along with the rest of Python. 
-* However, you still need to get ```win10toast```. For that, type in your terminal: 
+* However, you still need to get ```win10toast```, unless you have it already. For that, type in your terminal: 
 ``` 
 pip install win10toast 
 ```
